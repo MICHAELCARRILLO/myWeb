@@ -1,0 +1,41 @@
+*{margin:0;padding:0;  }
+
+body{
+  background: #fffffa;
+}
+
+header {
+  width:100%;
+  height: 20%;
+  overflow:hidden;
+  background: #16BAC5;
+  margin-bottom: 60px;
+}
+
+
+ .black {
+    color:black ;
+}
+
+ .title_item2 {
+ font-family: Carnas;
+  font-size: 30px;
+  text-align:left;
+  color: #000000;
+  font-weight: 600;
+  margin-bottom: 30px;
+ }
+
+ .title2{
+  font-family: Carnas;
+  font-size: 40px;
+  position: 40,23px;
+  line-height: 40px;
+  color: #000000;
+  font-weight: 600;
+  top
+  
+ }
+
+
+    
